@@ -8,7 +8,7 @@ const buttonActions = {
     6: ['platform3', 'platform4'],
     7: ['platform3'],
     8: ['platform1'],
-    9: ['platform1'],
+    9: ['platform2'],
     10: ['platform3'],
     11: ['platform4'],
     12: ['platform1']

@@ -1,17 +1,19 @@
 document.body.style.overflow = 'hidden';
 const buttonActions = {
-    1: ['platform1', 'platform2'],
-    2: ['platform2', 'platform3'],
-    3: ['platform3', 'platform4'],
-    4: ['platform1', 'platform4'],
-    5: ['platform1', 'platform3'],
-    6: ['platform3', 'platform4'],
-    7: ['platform3'],
-    8: ['platform1'],
-    9: ['platform2'],
-    10: ['platform3'],
-    11: ['platform4'],
-    12: ['platform1']
+
+
+    1: ['platform1', 'platform3'],
+    2: ['platform3', 'platform4'],
+    3: ['platform1'],
+    4: ['platform3'],
+    5: ['platform2'],
+    6: ['platform2', 'platform3'],
+    7: ['platform2', 'platform4'],
+    8: ['platform2', 'platform3'],
+    9: ['platform3'],
+    10: ['platform1', 'platform2'],
+    11: ['platform1'],
+    12: ['platform1', 'platform3']
 };
 
 const leftButtons = [1, 2, 3, 4, 5, 6];

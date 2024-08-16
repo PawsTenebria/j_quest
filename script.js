@@ -6,12 +6,12 @@ const buttonActions = {
     4: ['platform1', 'platform4'],
     5: ['platform1', 'platform3'],
     6: ['platform3', 'platform4'],
-    7: ['platform3', 'platform4'],
-    8: ['platform1', 'platform3'],
-    9: ['platform1', 'platform4'],
-    10: ['platform3', 'platform4'],
-    11: ['platform2', 'platform3'],
-    12: ['platform1', 'platform2']
+    7: ['platform3'],
+    8: ['platform1'],
+    9: ['platform1'],
+    10: ['platform3'],
+    11: ['platform4'],
+    12: ['platform1']
 };
 
 const leftButtons = [1, 2, 3, 4, 5, 6];
